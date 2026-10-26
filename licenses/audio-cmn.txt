@@ -1,0 +1,3 @@
+音节录音来自 audio-cmn 项目（https://github.com/hugolpz/audio-cmn），许可：CC BY-SA（署名-相同方式共享）。
+录音人：Chen Wang（音节），Yue Tan（HSK 单字，本站用其「句」补 jù 这一条）。
+本站对录音做的改动：裁掉了每条录音前后的静音，转成 AAC（.m4a）格式。改动后的录音同样以 CC BY-SA 提供。
