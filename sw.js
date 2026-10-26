@@ -1,6 +1,6 @@
 // 离线缓存：核心文件按版本缓存（新版本自动替换），录音单独缓存（跨版本保留，不重复下载）。
 const VERSION = 'fe10f8c3d8';
-const CORE = ["./", ".nojekyll", "app.js", "audio.js", "audio/index.json", "curriculum.js", "data/hanzi.tsv.gz", "data/phrases.tsv.gz", "data/syllables.json", "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png", "index.html", "licenses/audio-cmn.txt", "licenses/jieba.txt", "licenses/phrase-pinyin-data.txt", "licenses/pinyin-data.txt", "manifest.webmanifest", "pinyin.js", "styles.css"];
+const CORE = ["./", "app.js", "audio.js", "audio/index.json", "curriculum.js", "data/hanzi.tsv.gz", "data/phrases.tsv.gz", "data/syllables.json", "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png", "index.html", "licenses/audio-cmn.txt", "licenses/jieba.txt", "licenses/phrase-pinyin-data.txt", "licenses/pinyin-data.txt", "manifest.webmanifest", "pinyin.js", "styles.css"];
 const CORE_CACHE = 'zy-core-' + VERSION;
 const AUDIO_CACHE = 'zy-audio-v1';
 
